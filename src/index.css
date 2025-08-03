@@ -1,0 +1,14 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{text-align: center;}
+#container{
+    border:1px solid black;
+    width:200px;
+    height:100px;
+    margin:10px;
+
+}
